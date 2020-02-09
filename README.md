@@ -9,7 +9,7 @@
 
 Graduado pela Universidade Federal da Grande Dourados (UFGD) no curso de Engenharia de Computação. Durante minha graduação realizei pesquisa científica na área de Machine Learning, mais especificamente na utilização de Support Vector Machines para identificar relatos depressivos em redes sociais. A pesquisa continua sendo desenvolvida realizando a aplicação de técnicas de balanceamento de classes e Ensemble Learning.
 
-Fascinado por resolver problemas reais, mantenho uma rotina diária de estudos em Machine Learning com objetivo de conquistar uma oportunidade na área e aplicar o conhecimento adquirido na resolução de problemas enfrentados diariamente pelas pessoas. 
+Fascinado por resolver problemas reais, mantenho uma rotina diária de estudos em Machine Learning com o objetivo de conquistar o meu lugar na área, aplicando meu conhecimento e tendo a oportunidade de auxiliar as empresas na resolução de obstáculos para seus clientes. 
 
 **Background in:** Python, Machine Learning.
 
