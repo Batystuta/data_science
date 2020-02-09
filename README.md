@@ -15,7 +15,3 @@ Fascinado por resolver problemas reais, mantenho uma rotina diária de estudos e
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/bruno-dorneles/)
-
-## Projetos:
-Em breve...:
----
