@@ -17,5 +17,6 @@ Fascinado por resolver problemas reais, mantenho uma rotina diária de estudos e
 * [LinkedIn](https://www.linkedin.com/in/bruno-dorneles/)
 
 **Projetos:**
+* [Python e Estrutura de Dados](https://github.com/BrunoDorneles/data_science/blob/master/Python%20e%20Estrutura%20de%20Dados.ipynb)
 * [Álgebra Linear com Python e Numpy](https://github.com/BrunoDorneles/data_science/blob/master/%C3%81lgebra%20Linear%20com%20Python%20e%20Numpy.ipynb)  
 
