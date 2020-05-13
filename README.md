@@ -13,11 +13,16 @@ Fascinado por resolver problemas reais, mantenho uma rotina diária de estudos e
 
 **Background in:** Python, Machine Learning.
 
-**Links:**
+**Contato:**
 * [LinkedIn](https://www.linkedin.com/in/bruno-dorneles/)
 
-**Projetos:**
+**Notebooks:**
 * [Python e Estrutura de Dados](https://github.com/BrunoDorneles/data_science/blob/master/Python%20e%20Estrutura%20de%20Dados.ipynb)
 * [Álgebra Linear com Python e Numpy](https://github.com/BrunoDorneles/data_science/blob/master/%C3%81lgebra%20Linear%20com%20Python%20e%20Numpy.ipynb)  
-* [Regressão Linear: Conceitos e Implementação com Python](https://github.com/BrunoDorneles/data_science/blob/master/Regress%C3%A3o%20Linear.ipynb)
+* [Regressão Linear](https://github.com/BrunoDorneles/data_science/blob/master/Regress%C3%A3o%20Linear.ipynb)
+
+**Artigos:**
+* [Regressão Linear: Conceitos e Implementação com Python](https://bit.ly/3dv9luS)
+* [Regressão Linear com Gradiente Descendente](https://bit.ly/3afNAwb)
+
 
