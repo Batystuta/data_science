@@ -7,14 +7,11 @@
 # Bruno Dorneles
 <sub>*Data Science Student</sub>
 
-Graduado pela Universidade Federal da Grande Dourados (UFGD) no curso de Engenharia de Computação. Durante minha graduação realizei pesquisa científica na área de Machine Learning, mais especificamente na utilização de Support Vector Machines para identificar relatos depressivos em redes sociais. A pesquisa continua sendo desenvolvida realizando a aplicação de técnicas de balanceamento de classes e Ensemble Learning.
+Graduado pela Universidade Federal da Grande Dourados (UFGD) no curso de Engenharia de Computação. Durante minha graduação realizei pesquisa científica na área de Machine Learning, mais especificamente na utilização de Support Vector Machines para identificar relatos depressivos em redes sociais. 
 
 Fascinado por resolver problemas reais, mantenho uma rotina diária de estudos em Machine Learning com o objetivo de conquistar o meu lugar na área, aplicando meu conhecimento e tendo a oportunidade de auxiliar as empresas na resolução de obstáculos para seus clientes. 
 
 **Background in:** Python, Machine Learning.
-
-**Contato:**
-* [LinkedIn](https://www.linkedin.com/in/bruno-dorneles/)
 
 **Notebooks:**
 * [Python e Estrutura de Dados](https://github.com/BrunoDorneles/data_science/blob/master/Python%20e%20Estrutura%20de%20Dados.ipynb)
@@ -25,4 +22,8 @@ Fascinado por resolver problemas reais, mantenho uma rotina diária de estudos e
 * [Regressão Linear: Conceitos e Implementação com Python](https://bit.ly/3dv9luS)
 * [Regressão Linear com Gradiente Descendente](https://bit.ly/3afNAwb)
 
+**Aceleradev Data Science:**
+* [Manipulação de Dados com Pandas](https://bit.ly/aceleradev-semana2)
 
+Deixa sua crítica ou sugestão e me ajude a evoluir😉
+* [LinkedIn](https://www.linkedin.com/in/bruno-dorneles/)
