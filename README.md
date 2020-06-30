@@ -27,3 +27,4 @@ Fascinado por resolver problemas reais, mantenho uma rotina diária de estudos e
 
 Deixa sua crítica ou sugestão e me ajude a evoluir😉
 * [LinkedIn](https://www.linkedin.com/in/bruno-dorneles/)
+* [Medium](https://medium.com/@bruno.dorneles)
