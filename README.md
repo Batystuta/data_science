@@ -24,7 +24,11 @@ Fascinado por resolver problemas reais, mantenho uma rotina diária de estudos e
 
 **Aceleradev Data Science:**
 * [Manipulação de Dados com Pandas](https://bit.ly/aceleradev-semana2)
+* [Estatística Univariada](https://bit.ly/aceleradev-semana-3)
 
-Deixa sua crítica ou sugestão e me ajude a evoluir😉
+**Projetos:**  
+* [Real Estate](https://bit.ly/app-real-estate)
+
+Entre em contato😉
 * [LinkedIn](https://www.linkedin.com/in/bruno-dorneles/)
 * [Medium](https://medium.com/@bruno.dorneles)
