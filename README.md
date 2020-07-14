@@ -28,6 +28,7 @@ Fascinado por resolver problemas reais, mantenho uma rotina diária de estudos e
 
 **Projetos:**  
 * [Real Estate](https://bit.ly/app-real-estate)
+* [NLP aplicado em vídeos do YouTube com spaCy](https://bit.ly/introducao-nlp)
 
 Entre em contato😉
 * [LinkedIn](https://www.linkedin.com/in/bruno-dorneles/)
